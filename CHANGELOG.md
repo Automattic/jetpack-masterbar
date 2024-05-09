@@ -11,3 +11,6 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Initial version.
+
+### Changed
+- Auto-labeling: label changes to the Masterbar feature in the Masterbar package.
