@@ -15,3 +15,4 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Auto-labeling: label changes to the Masterbar feature in the Masterbar package.
 - Masterbar: Copy module code to package
+- Updated package dependencies.
