@@ -30,7 +30,7 @@
 	},
 	"devDependencies": {
 		"@automattic/jetpack-webpack-config": "workspace:*",
-		"@automattic/remove-asset-webpack-plugin": "^1.0.24",
+		"@automattic/remove-asset-webpack-plugin": "^1.0.25-alpha",
 		"@babel/core": "7.26.0",
 		"@csstools/postcss-global-data": "2.1.1",
 		"@wordpress/browserslist-config": "6.13.0",
