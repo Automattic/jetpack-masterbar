@@ -5,22 +5,22 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.2",
-		"automattic/jetpack-assets": "^4.3.40-alpha",
+		"automattic/jetpack-assets": "^4.3.40",
 		"automattic/jetpack-blaze": "^0.27.21-alpha",
 		"automattic/jetpack-compat": "^4.0.4",
 		"automattic/jetpack-device-detection": "^3.4.3-alpha",
-		"automattic/jetpack-connection": "^8.5.3-alpha",
+		"automattic/jetpack-connection": "^8.5.3",
 		"automattic/jetpack-jitm": "^4.3.38-alpha",
-		"automattic/jetpack-logo": "^3.0.8-alpha",
+		"automattic/jetpack-logo": "^3.0.8",
 		"automattic/jetpack-plans": "^0.11.8-alpha",
-		"automattic/jetpack-status": "^6.1.6-alpha"
+		"automattic/jetpack-status": "^6.1.6"
 	},
 	"require-dev": {
 		"brain/monkey": "^2.6.2",
 		"yoast/phpunit-polyfills": "^4.0.0",
 		"automattic/patchwork-redefine-exit": "^2.0.12-alpha",
 		"automattic/jetpack-test-environment": "@dev",
-		"automattic/phpunit-select-config": "^1.0.7-alpha"
+		"automattic/phpunit-select-config": "^1.0.7"
 	},
 	"autoload": {
 		"classmap": [
