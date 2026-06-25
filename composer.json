@@ -6,10 +6,10 @@
 	"require": {
 		"php": ">=7.2",
 		"automattic/jetpack-assets": "^4.4.1",
-		"automattic/jetpack-blaze": "^0.27.24",
+		"automattic/jetpack-blaze": "^0.27.25-alpha",
 		"automattic/jetpack-compat": "^4.0.4",
 		"automattic/jetpack-device-detection": "^3.4.5",
-		"automattic/jetpack-connection": "^8.7.4",
+		"automattic/jetpack-connection": "^8.7.5-alpha",
 		"automattic/jetpack-jitm": "^4.3.43",
 		"automattic/jetpack-logo": "^3.0.9",
 		"automattic/jetpack-plans": "^0.11.9",
