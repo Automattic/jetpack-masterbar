@@ -6,14 +6,14 @@
 	"require": {
 		"php": ">=7.2",
 		"automattic/jetpack-assets": "^4.4.11",
-		"automattic/jetpack-blaze": "^0.28.4",
+		"automattic/jetpack-blaze": "^0.28.5",
 		"automattic/jetpack-compat": "^4.0.4",
-		"automattic/jetpack-device-detection": "^3.4.6-alpha",
-		"automattic/jetpack-connection": "^8.12.0-alpha",
+		"automattic/jetpack-device-detection": "^3.4.6",
+		"automattic/jetpack-connection": "^8.12.0",
 		"automattic/jetpack-jitm": "^4.3.52",
 		"automattic/jetpack-logo": "^3.0.9",
 		"automattic/jetpack-plans": "^0.12.0",
-		"automattic/jetpack-status": "^6.5.0-alpha"
+		"automattic/jetpack-status": "^6.5.0"
 	},
 	"require-dev": {
 		"brain/monkey": "^2.6.2",
