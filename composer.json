@@ -9,7 +9,7 @@
 		"automattic/jetpack-blaze": "^0.29.9-alpha",
 		"automattic/jetpack-compat": "^5.0.0",
 		"automattic/jetpack-device-detection": "^4.0.0",
-		"automattic/jetpack-connection": "^9.9.1",
+		"automattic/jetpack-connection": "^9.9.2-alpha",
 		"automattic/jetpack-jitm": "^5.1.2-alpha",
 		"automattic/jetpack-logo": "^4.0.1",
 		"automattic/jetpack-plans": "^0.14.1",
