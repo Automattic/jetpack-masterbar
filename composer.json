@@ -5,12 +5,12 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.4",
-		"automattic/jetpack-assets": "^5.0.15-alpha",
-		"automattic/jetpack-blaze": "^0.29.12-alpha",
-		"automattic/jetpack-compat": "^5.0.1-alpha",
+		"automattic/jetpack-assets": "^5.0.15",
+		"automattic/jetpack-blaze": "^0.29.12",
+		"automattic/jetpack-compat": "^5.0.1",
 		"automattic/jetpack-device-detection": "^4.0.1",
-		"automattic/jetpack-connection": "^9.14.0-alpha",
-		"automattic/jetpack-jitm": "^5.1.5",
+		"automattic/jetpack-connection": "^9.14.0",
+		"automattic/jetpack-jitm": "^5.1.6",
 		"automattic/jetpack-logo": "^4.0.2",
 		"automattic/jetpack-plans": "^0.15.0",
 		"automattic/jetpack-status": "^7.1.1"
@@ -18,7 +18,7 @@
 	"require-dev": {
 		"brain/monkey": "^2.6.2",
 		"yoast/phpunit-polyfills": "^4.0.0",
-		"automattic/patchwork-redefine-exit": "^3.0.1-alpha",
+		"automattic/patchwork-redefine-exit": "^3.0.1",
 		"automattic/phpunit-select-config": "^1.0.12"
 	},
 	"autoload": {
